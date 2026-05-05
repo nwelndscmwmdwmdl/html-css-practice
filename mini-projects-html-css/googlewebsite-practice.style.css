@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Logo */
+.img-google img {
+    width: 270px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Search bar */
+.search-button input {
+    width: 500px;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: 1px solid #dfe1e5;
+    padding: 0 20px;
+    font-size: 16px;
+    outline: none;
+}
+/* Buttons */
+.btns button {
+    background-color: #f8f8f8;
+    border: 1px solid #f8f8f8;
+    padding: 10px 20px;
+    border-radius: none;
+    cursor: pointer;
+    margin: 10px;
+}
